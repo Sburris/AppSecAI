@@ -1,3 +1,7 @@
+# This will store the data that the AI will be trained on.
+data/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
